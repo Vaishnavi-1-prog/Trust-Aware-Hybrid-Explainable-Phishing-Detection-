@@ -49,7 +49,7 @@ The proposed framework follows a multi-stage pipeline that combines traditional 
 ## 📂 Repository Structure
 
 ```text
-Trust-Aware-Hybrid-Phishing-Detection/
+Trust-Aware-Hybrid-Explainable-Phishing-Detection/
 │
 ├── README.md
 ├── LICENSE
@@ -57,33 +57,12 @@ Trust-Aware-Hybrid-Phishing-Detection/
 ├── .gitignore
 │
 ├── datasets/
-│   └── sample_dataset.csv
-│
 ├── models/
-│   ├── rf_phishing_model.pkl
-│   ├── bilstm_email_model.h5
-│   └── tokenizer.pkl
-│
 ├── phases/
-│   ├── phase_01_random_forest.py
-│   ├── phase_02_bilstm.py
-│   ├── phase_03_hybrid.py
-│   ├── phase_04_xai.py
-│   ├── phase_05_trust_score.py
-│   ├── phase_06_hybrid_trust.py
-│   ├── phase_07_risk_category.py
-│   ├── phase_08_domain_reputation.py
-│   ├── phase_09_adversarial_testing.py
-│   └── phase_10_deployment.py
-│
-├── screenshots/
-│
-└── docs/
-    └── architecture.png
+├── result_screenshots/
+├── docs/
+└── research/
 ```
-
----
-
 ## 🔄 Project Workflow
 
 The project is implemented in ten modular phases:
