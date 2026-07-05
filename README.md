@@ -108,6 +108,19 @@ The project utilizes publicly available phishing datasets for URL analysis and e
 
 Performance metrics, confusion matrices, explainability visualizations, and deployment screenshots is added.
 
+The proposed Trust-Aware Hybrid Explainable AI Framework demonstrated strong performance across multiple phases of phishing detection.
+
+| Model / Module | Performance |
+|----------------|------------|
+| Random Forest (URL Analysis) | Accuracy: **96.73%** |
+| BiLSTM (Email Content Analysis) | Accuracy: **99.56%** |
+| Hybrid Framework | Improved detection through model fusion |
+| Explainable AI | Feature importance analysis for transparent predictions |
+| Trust Scoring | Confidence-based prediction reliability |
+| Domain Reputation Analysis | Additional security signal evaluation |
+| Risk Categorization | Multi-level phishing risk assessment |
+| Deployment | Interactive Gradio Web Application |
+
 ---
 
 ## 🚀 Future Work
