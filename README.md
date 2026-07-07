@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Vaishnavi**
+**Vaishnavi Devi J**
 
 M.Tech – Data Science
 
